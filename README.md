@@ -2,7 +2,7 @@
 
 Command line app to perform basic operations (add, substract, divide, multiply) with fractional numbers.
 
-This app iw written using C# language. To run it, create a new NET console app using Visual Studio or VS Code, then copy & paste the code in Program.cs file. This file contains the Main procedure and all needed code to run.
+This app is written using C# language. To run it, create a new NET console app using Visual Studio or VS Code, then copy & paste the code in Program.cs file. This file contains the Main procedure and all code needed to run.
 
 The syntax to use the console app is basically
 
